@@ -1,0 +1,17 @@
+{
+  "name": "microteaching-coach",
+  "version": "1.0.0",
+  "description": "微格师范生试讲陪练工作台：场景选择 + 真实大模型角色扮演 + 量表诊断与课标核查",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true,
+  "dependencies": {
+    "jszip": "^3.10.2"
+  }
+}
